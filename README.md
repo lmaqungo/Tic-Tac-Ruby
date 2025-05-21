@@ -10,5 +10,5 @@ bundle install
 to install the necessary dependencies. Follow that with the following command to execute the program
 
 ```bash
-bundle exec ruby tic-tac-ruby.rb
+bundle exec ruby main.rb
 ```
